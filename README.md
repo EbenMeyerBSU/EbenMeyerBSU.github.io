@@ -18,6 +18,6 @@ I am currently enrolled in the computer science program and I have a very keen i
 - National colors
 - Best Highschool Wrestler
 - Best Technical Wrestler
-- International Referee Category 1
+- International Referee Category 3
 
 [LinkedIn]https://www.linkedin.com/in/eben-meyer-9bb363269/
